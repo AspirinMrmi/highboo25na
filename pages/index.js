@@ -12,10 +12,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[我是一个粉刷匠]</p>
+        <p>[我叫米海博，这是我的个人博客]</p>
         <p>
-          (我要把我的房子{' '}
-          <a href="https://nextjs.org/learn">刷的贼漂亮！</a>)
+          (Highboo25Na的意思就是海博爱我娜，娜就是韩艳娜小朋友)
         </p>
       </section>
       {/* Add this <section> tag below the existing <section> tag */}
