@@ -1,3 +1,7 @@
+---
+title: 'Some Notes'
+date: '2021-06-21'
+---
 ## 1. 快速查看NPM、yarn全局安装过的包
 
 NPM
