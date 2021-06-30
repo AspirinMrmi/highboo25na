@@ -6,7 +6,7 @@ date: '2021-06-21'
 
 NPM
 
-```bash
+```
 npm list -g --depth=0
 ```
 
